@@ -1,1 +1,1 @@
-Playing around with nim-lang and rospy
+ROS Client library in Nim
